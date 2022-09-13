@@ -36,6 +36,6 @@ CMD ["java","-jar","dockerdemo.jar"]
 12. docker build .  // to create an docker image from the dockerfile
 
 
-
+13. docker volume is to assign the local storage to container.
 
 
